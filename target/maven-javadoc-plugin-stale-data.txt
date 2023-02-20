@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/src/main/java:/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculator with Cucumber tests 0.4.3 API'
+-use
+-version
+-windowtitle
+'Calculator with Cucumber tests 0.4.3 API'
+calculator
+visitor
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/src/main/java = 1676901639810
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/generated-sources/annotations = 1676902141751
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/tag-search-index.js = 1676902146187
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/overview-tree.html = 1676902146177
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/module-search-index.js = 1676902146186
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/index.html = 1676902146179
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/package-search-index.js = 1676902146186
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/jquery-ui.overrides.css = 1676902146203
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/serialized-form.html = 1676902146152
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/index-all.html = 1676902146193
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/allpackages-index.html = 1676902146186
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/member-search-index.js = 1676902146187
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/script.js = 1676902146197
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/stylesheet.css = 1676902146196
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/overview-summary.html = 1676902146194
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/help-doc.html = 1676902146195
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/element-list = 1676902146140
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/allclasses-index.html = 1676902146185
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/type-search-index.js = 1676902146186
+/Users/hugo/MASTER_I/Q2/SOFTWARE_EVOLUTION/TP/PART_B/calculator-cucumber/target/site/apidocs/search.js = 1676902146198
